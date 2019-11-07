@@ -1,0 +1,12 @@
+---
+ns: NETSHOPPING
+---
+## _CASH_INVENTORY_TRANSACTION_DELETE
+
+```c
+// 0x59EF5D516E2D96B9
+Any _CASH_INVENTORY_TRANSACTION_DELETE(Any p0);
+```
+
+## Parameters
+* **p0**:

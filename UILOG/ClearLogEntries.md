@@ -1,0 +1,10 @@
+---
+ns: UILOG
+---
+## _CLEAR_LOG_ENTRIES
+
+```c
+// 0xB95B4EA6B1EDF035
+void _CLEAR_LOG_ENTRIES();
+```
+

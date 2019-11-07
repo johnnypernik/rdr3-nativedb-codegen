@@ -1,0 +1,10 @@
+---
+ns: AUDIO
+---
+## GET_MUSIC_PLAYTIME
+
+```c
+// 0xE7A0D23DC414507B
+Any GET_MUSIC_PLAYTIME();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## NETWORK_ADD_FRIEND
+
+```c
+// 0x8E02D73914064223
+Any NETWORK_ADD_FRIEND();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: PATHFIND
+---
+## _0x8E8D72FF24DEE1FB
+
+```c
+// 0x8E8D72FF24DEE1FB
+Any _0x8E8D72FF24DEE1FB();
+```
+

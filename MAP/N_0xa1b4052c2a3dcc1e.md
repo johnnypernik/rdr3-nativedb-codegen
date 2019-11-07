@@ -1,0 +1,10 @@
+---
+ns: MAP
+---
+## _0xA1B4052C2A3DCC1E
+
+```c
+// 0xA1B4052C2A3DCC1E
+Any _0xA1B4052C2A3DCC1E();
+```
+

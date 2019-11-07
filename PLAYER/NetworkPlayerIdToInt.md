@@ -1,0 +1,10 @@
+---
+ns: PLAYER
+---
+## NETWORK_PLAYER_ID_TO_INT
+
+```c
+// 0x8A9386F0749A17FA
+Any NETWORK_PLAYER_ID_TO_INT();
+```
+

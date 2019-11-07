@@ -1,0 +1,12 @@
+---
+ns: TASK
+---
+## WAYPOINT_PLAYBACK_GET_IS_PAUSED
+
+```c
+// 0x701375A7D43F01CB
+Any WAYPOINT_PLAYBACK_GET_IS_PAUSED(Any p0);
+```
+
+## Parameters
+* **p0**:

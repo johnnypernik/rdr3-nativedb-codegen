@@ -1,0 +1,10 @@
+---
+ns: PED
+---
+## CAN_PED_IN_COMBAT_SEE_TARGET
+
+```c
+// 0xEAD42DE3610D0721
+Any CAN_PED_IN_COMBAT_SEE_TARGET();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: CAM
+---
+## IS_SCREEN_FADING_IN
+
+```c
+// 0x0CECCC63FFA2EF24
+Any IS_SCREEN_FADING_IN();
+```
+

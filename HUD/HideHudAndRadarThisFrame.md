@@ -1,0 +1,10 @@
+---
+ns: HUD
+---
+## HIDE_HUD_AND_RADAR_THIS_FRAME
+
+```c
+// 0x36CDD81627A6FCD2
+void HIDE_HUD_AND_RADAR_THIS_FRAME();
+```
+

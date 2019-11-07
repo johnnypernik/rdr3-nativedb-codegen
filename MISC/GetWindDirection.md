@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## GET_WIND_DIRECTION
+
+```c
+// 0xF703E82F3FE14A5F
+Any GET_WIND_DIRECTION();
+```
+

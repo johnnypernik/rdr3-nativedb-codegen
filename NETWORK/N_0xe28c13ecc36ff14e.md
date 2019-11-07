@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## _0xE28C13ECC36FF14E
+
+```c
+// 0xE28C13ECC36FF14E
+Any _0xE28C13ECC36FF14E();
+```
+

@@ -1,0 +1,13 @@
+---
+ns: PHYSICS
+---
+## SET_DISABLE_BREAKING
+
+```c
+// 0x5CEC1A84620E7D5B
+void SET_DISABLE_BREAKING(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

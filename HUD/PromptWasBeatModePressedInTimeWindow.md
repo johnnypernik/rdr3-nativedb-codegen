@@ -1,0 +1,12 @@
+---
+ns: HUD
+---
+## _PROMPT_WAS_BEAT_MODE_PRESSED_IN_TIME_WINDOW
+
+```c
+// 0x1FE4788AB1430C55
+Any _PROMPT_WAS_BEAT_MODE_PRESSED_IN_TIME_WINDOW(Any p0);
+```
+
+## Parameters
+* **p0**:

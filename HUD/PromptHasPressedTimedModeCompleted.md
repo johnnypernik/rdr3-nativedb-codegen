@@ -1,0 +1,12 @@
+---
+ns: HUD
+---
+## _PROMPT_HAS_PRESSED_TIMED_MODE_COMPLETED
+
+```c
+// 0x3CE854D250A88DAF
+Any _PROMPT_HAS_PRESSED_TIMED_MODE_COMPLETED(Any p0);
+```
+
+## Parameters
+* **p0**:

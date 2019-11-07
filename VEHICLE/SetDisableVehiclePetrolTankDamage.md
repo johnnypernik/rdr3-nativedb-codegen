@@ -1,0 +1,13 @@
+---
+ns: VEHICLE
+---
+## SET_DISABLE_VEHICLE_PETROL_TANK_DAMAGE
+
+```c
+// 0x5795FBE7A2001C14
+void SET_DISABLE_VEHICLE_PETROL_TANK_DAMAGE(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

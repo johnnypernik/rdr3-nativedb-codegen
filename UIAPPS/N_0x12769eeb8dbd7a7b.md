@@ -1,0 +1,10 @@
+---
+ns: UIAPPS
+---
+## _0x12769EEB8DBD7A7B
+
+```c
+// 0x12769EEB8DBD7A7B
+Any _0x12769EEB8DBD7A7B();
+```
+

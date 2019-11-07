@@ -1,0 +1,12 @@
+---
+ns: HUD
+---
+## _PROMPT_DOES_AMBIENT_GROUP_EXIST
+
+```c
+// 0xEB550B927B34A1BB
+Any _PROMPT_DOES_AMBIENT_GROUP_EXIST(Any p0);
+```
+
+## Parameters
+* **p0**:

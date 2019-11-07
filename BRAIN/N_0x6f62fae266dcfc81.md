@@ -1,0 +1,10 @@
+---
+ns: BRAIN
+---
+## _0x6F62FAE266DCFC81
+
+```c
+// 0x6F62FAE266DCFC81
+Any _0x6F62FAE266DCFC81();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: _NAMESPACE7
+---
+## _0x3F73AED12A5EF0FF
+
+```c
+// 0x3F73AED12A5EF0FF
+Any _0x3F73AED12A5EF0FF();
+```
+

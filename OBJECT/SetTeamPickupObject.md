@@ -1,0 +1,10 @@
+---
+ns: OBJECT
+---
+## SET_TEAM_PICKUP_OBJECT
+
+```c
+// 0x53E0DF1A2A3CF0CA
+Any SET_TEAM_PICKUP_OBJECT();
+```
+

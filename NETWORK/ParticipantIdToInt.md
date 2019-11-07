@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## PARTICIPANT_ID_TO_INT
+
+```c
+// 0x57A3BDDAD8E5AA0A
+Any PARTICIPANT_ID_TO_INT();
+```
+

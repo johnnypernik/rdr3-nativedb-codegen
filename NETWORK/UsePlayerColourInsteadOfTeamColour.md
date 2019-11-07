@@ -1,0 +1,12 @@
+---
+ns: NETWORK
+---
+## USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR
+
+```c
+// 0x5FFE9B4144F9712F
+void USE_PLAYER_COLOUR_INSTEAD_OF_TEAM_COLOUR(Any p0);
+```
+
+## Parameters
+* **p0**:

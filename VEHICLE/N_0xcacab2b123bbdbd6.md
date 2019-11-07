@@ -1,0 +1,10 @@
+---
+ns: VEHICLE
+---
+## _0xCACAB2B123BBDBD6
+
+```c
+// 0xCACAB2B123BBDBD6
+Any _0xCACAB2B123BBDBD6();
+```
+

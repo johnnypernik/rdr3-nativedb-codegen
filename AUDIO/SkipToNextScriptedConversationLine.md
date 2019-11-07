@@ -1,0 +1,12 @@
+---
+ns: AUDIO
+---
+## SKIP_TO_NEXT_SCRIPTED_CONVERSATION_LINE
+
+```c
+// 0x9663FE6B7A61EB00
+void SKIP_TO_NEXT_SCRIPTED_CONVERSATION_LINE(Any p0);
+```
+
+## Parameters
+* **p0**:

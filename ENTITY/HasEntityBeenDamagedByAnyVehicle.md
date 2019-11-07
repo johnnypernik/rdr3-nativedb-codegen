@@ -1,0 +1,12 @@
+---
+ns: ENTITY
+---
+## HAS_ENTITY_BEEN_DAMAGED_BY_ANY_VEHICLE
+
+```c
+// 0x695D7C26DE65C423
+Any HAS_ENTITY_BEEN_DAMAGED_BY_ANY_VEHICLE(Any p0);
+```
+
+## Parameters
+* **p0**:

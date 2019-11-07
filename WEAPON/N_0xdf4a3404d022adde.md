@@ -1,0 +1,10 @@
+---
+ns: WEAPON
+---
+## _0xDF4A3404D022ADDE
+
+```c
+// 0xDF4A3404D022ADDE
+Any _0xDF4A3404D022ADDE();
+```
+

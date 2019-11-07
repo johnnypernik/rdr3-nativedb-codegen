@@ -1,0 +1,12 @@
+---
+ns: ENTITY
+---
+## IS_ENTITY_ATTACHED_TO_ANY_OBJECT
+
+```c
+// 0x306C1F6178F01AB3
+Any IS_ENTITY_ATTACHED_TO_ANY_OBJECT(Any p0);
+```
+
+## Parameters
+* **p0**:

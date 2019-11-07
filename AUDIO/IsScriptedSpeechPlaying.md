@@ -1,0 +1,12 @@
+---
+ns: AUDIO
+---
+## IS_SCRIPTED_SPEECH_PLAYING
+
+```c
+// 0xCC9AA18DCC7084F4
+Any IS_SCRIPTED_SPEECH_PLAYING(Any p0);
+```
+
+## Parameters
+* **p0**:

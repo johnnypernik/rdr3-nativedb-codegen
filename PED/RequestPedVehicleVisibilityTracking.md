@@ -1,0 +1,13 @@
+---
+ns: PED
+---
+## REQUEST_PED_VEHICLE_VISIBILITY_TRACKING
+
+```c
+// 0x2BC338A7B21F4608
+void REQUEST_PED_VEHICLE_VISIBILITY_TRACKING(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+---
+## _0xCCD9AAD85E1B559E
+
+```c
+// 0xCCD9AAD85E1B559E
+Any _0xCCD9AAD85E1B559E();
+```
+

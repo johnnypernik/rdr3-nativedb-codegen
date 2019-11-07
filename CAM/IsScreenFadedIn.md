@@ -1,0 +1,10 @@
+---
+ns: CAM
+---
+## IS_SCREEN_FADED_IN
+
+```c
+// 0x37F9A426FBCF4AF2
+Any IS_SCREEN_FADED_IN();
+```
+

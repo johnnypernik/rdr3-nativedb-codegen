@@ -1,0 +1,12 @@
+---
+ns: HUD
+---
+## _PROMPT_HAS_HOLD_MODE_COMPLETED
+
+```c
+// 0xE0F65F0640EF0617
+Any _PROMPT_HAS_HOLD_MODE_COMPLETED(Any p0);
+```
+
+## Parameters
+* **p0**:

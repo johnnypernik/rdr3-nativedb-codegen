@@ -1,0 +1,10 @@
+---
+ns: PAD
+---
+## IS_LOOK_INVERTED
+
+```c
+// 0x77B612531280010D
+Any IS_LOOK_INVERTED();
+```
+

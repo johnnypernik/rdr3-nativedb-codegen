@@ -1,0 +1,13 @@
+---
+ns: WEAPON
+---
+## HIDE_PED_WEAPON_FOR_SCRIPTED_CUTSCENE
+
+```c
+// 0x6F6981D2253C208F
+void HIDE_PED_WEAPON_FOR_SCRIPTED_CUTSCENE(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

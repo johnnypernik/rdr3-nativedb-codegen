@@ -1,0 +1,10 @@
+---
+ns: CLOCK
+---
+## GET_CLOCK_YEAR
+
+```c
+// 0xE136DCA28C4A48BA
+Any GET_CLOCK_YEAR();
+```
+

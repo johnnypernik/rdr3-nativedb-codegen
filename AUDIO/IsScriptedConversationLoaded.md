@@ -1,0 +1,12 @@
+---
+ns: AUDIO
+---
+## IS_SCRIPTED_CONVERSATION_LOADED
+
+```c
+// 0xDF0D54BE7A776737
+Any IS_SCRIPTED_CONVERSATION_LOADED(Any p0);
+```
+
+## Parameters
+* **p0**:

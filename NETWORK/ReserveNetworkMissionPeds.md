@@ -1,0 +1,12 @@
+---
+ns: NETWORK
+---
+## RESERVE_NETWORK_MISSION_PEDS
+
+```c
+// 0xB60FEBA45333D36F
+void RESERVE_NETWORK_MISSION_PEDS(Any p0);
+```
+
+## Parameters
+* **p0**:

@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## IS_MINIGAME_IN_PROGRESS
+
+```c
+// 0xF4D8BCD052E7EA1B
+Any IS_MINIGAME_IN_PROGRESS();
+```
+

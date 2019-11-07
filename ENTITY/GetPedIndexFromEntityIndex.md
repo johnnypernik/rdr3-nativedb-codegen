@@ -1,0 +1,12 @@
+---
+ns: ENTITY
+---
+## GET_PED_INDEX_FROM_ENTITY_INDEX
+
+```c
+// 0x0F16D042BD640EA3
+Any GET_PED_INDEX_FROM_ENTITY_INDEX(Any p0);
+```
+
+## Parameters
+* **p0**:

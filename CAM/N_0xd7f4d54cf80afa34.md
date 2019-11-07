@@ -1,0 +1,10 @@
+---
+ns: CAM
+---
+## _0xD7F4D54CF80AFA34
+
+```c
+// 0xD7F4D54CF80AFA34
+Any _0xD7F4D54CF80AFA34();
+```
+

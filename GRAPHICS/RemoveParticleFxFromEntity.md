@@ -1,0 +1,12 @@
+---
+ns: GRAPHICS
+---
+## REMOVE_PARTICLE_FX_FROM_ENTITY
+
+```c
+// 0x92884B4A49D81325
+void REMOVE_PARTICLE_FX_FROM_ENTITY(Any p0);
+```
+
+## Parameters
+* **p0**:

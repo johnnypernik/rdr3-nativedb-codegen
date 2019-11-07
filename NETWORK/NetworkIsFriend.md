@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## NETWORK_IS_FRIEND
+
+```c
+// 0x1A24A179F9B31654
+Any NETWORK_IS_FRIEND();
+```
+

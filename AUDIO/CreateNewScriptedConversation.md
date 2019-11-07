@@ -1,0 +1,12 @@
+---
+ns: AUDIO
+---
+## CREATE_NEW_SCRIPTED_CONVERSATION
+
+```c
+// 0xD2C91A0B572AAE56
+Any CREATE_NEW_SCRIPTED_CONVERSATION(Any p0);
+```
+
+## Parameters
+* **p0**:

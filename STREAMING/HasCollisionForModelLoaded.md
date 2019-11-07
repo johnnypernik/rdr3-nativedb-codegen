@@ -1,0 +1,12 @@
+---
+ns: STREAMING
+---
+## HAS_COLLISION_FOR_MODEL_LOADED
+
+```c
+// 0x210A79C9EC89778F
+Any HAS_COLLISION_FOR_MODEL_LOADED(Any p0);
+```
+
+## Parameters
+* **p0**:

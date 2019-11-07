@@ -1,0 +1,13 @@
+---
+ns: PLAYER
+---
+## SET_PLAYER_HEALTH_RECHARGE_MULTIPLIER
+
+```c
+// 0x8899C244EBCF70DE
+void SET_PLAYER_HEALTH_RECHARGE_MULTIPLIER(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

@@ -1,0 +1,10 @@
+---
+ns: PED
+---
+## IS_PED_IN_FLYING_VEHICLE
+
+```c
+// 0x9134873537FA419C
+Any IS_PED_IN_FLYING_VEHICLE();
+```
+

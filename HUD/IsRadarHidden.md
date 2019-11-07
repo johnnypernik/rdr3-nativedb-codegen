@@ -1,0 +1,10 @@
+---
+ns: HUD
+---
+## IS_RADAR_HIDDEN
+
+```c
+// 0x1B82FD5FFA4D666E
+Any IS_RADAR_HIDDEN();
+```
+

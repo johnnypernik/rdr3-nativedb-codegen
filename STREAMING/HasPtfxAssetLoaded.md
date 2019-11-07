@@ -1,0 +1,10 @@
+---
+ns: STREAMING
+---
+## HAS_PTFX_ASSET_LOADED
+
+```c
+// 0x13A3F30A9ED0BC31
+Any HAS_PTFX_ASSET_LOADED();
+```
+

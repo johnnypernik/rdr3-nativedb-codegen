@@ -1,0 +1,12 @@
+---
+ns: TASK
+---
+## IS_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK
+
+```c
+// 0x8785E6E40C7A8818
+Any IS_DRIVEBY_TASK_UNDERNEATH_DRIVING_TASK(Any p0);
+```
+
+## Parameters
+* **p0**:

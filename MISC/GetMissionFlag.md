@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## GET_MISSION_FLAG
+
+```c
+// 0xB15CD1CF58771DE1
+Any GET_MISSION_FLAG();
+```
+

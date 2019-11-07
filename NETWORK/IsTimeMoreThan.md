@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## IS_TIME_MORE_THAN
+
+```c
+// 0xDE350F8651E4346C
+Any IS_TIME_MORE_THAN();
+```
+

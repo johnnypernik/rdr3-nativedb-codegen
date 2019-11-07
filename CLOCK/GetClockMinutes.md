@@ -1,0 +1,10 @@
+---
+ns: CLOCK
+---
+## GET_CLOCK_MINUTES
+
+```c
+// 0x4E162231B823DBBF
+Any GET_CLOCK_MINUTES();
+```
+

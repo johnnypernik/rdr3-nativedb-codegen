@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## _0xDDAEB478E58F8DEA
+
+```c
+// 0xDDAEB478E58F8DEA
+Any _0xDDAEB478E58F8DEA();
+```
+

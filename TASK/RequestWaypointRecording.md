@@ -1,0 +1,12 @@
+---
+ns: TASK
+---
+## REQUEST_WAYPOINT_RECORDING
+
+```c
+// 0x9EEFB62EB27B5792
+void REQUEST_WAYPOINT_RECORDING(Any p0);
+```
+
+## Parameters
+* **p0**:

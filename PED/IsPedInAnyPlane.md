@@ -1,0 +1,10 @@
+---
+ns: PED
+---
+## IS_PED_IN_ANY_PLANE
+
+```c
+// 0x5FFF4CFC74D8FB80
+Any IS_PED_IN_ANY_PLANE();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: WATER
+---
+## _0xEC43C2FFB70E3F30
+
+```c
+// 0xEC43C2FFB70E3F30
+Any _0xEC43C2FFB70E3F30();
+```
+

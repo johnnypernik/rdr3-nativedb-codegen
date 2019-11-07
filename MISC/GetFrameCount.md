@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## GET_FRAME_COUNT
+
+```c
+// 0x77DFA958FCF100C1
+Any GET_FRAME_COUNT();
+```
+

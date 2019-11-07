@@ -1,0 +1,10 @@
+---
+ns: PED
+---
+## _0xFECA2081F61ED2CD
+
+```c
+// 0xFECA2081F61ED2CD
+Any _0xFECA2081F61ED2CD();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: VEHICLE
+---
+## _0x74583B19FEEAFDA7
+
+```c
+// 0x74583B19FEEAFDA7
+Any _0x74583B19FEEAFDA7();
+```
+

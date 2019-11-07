@@ -1,0 +1,10 @@
+---
+ns: PAD
+---
+## _0xCB0360EFEFB2580D
+
+```c
+// 0xCB0360EFEFB2580D
+Any _0xCB0360EFEFB2580D();
+```
+

@@ -1,0 +1,12 @@
+---
+ns: ENTITY
+---
+## GET_VEHICLE_INDEX_FROM_ENTITY_INDEX
+
+```c
+// 0xDF1E5AAC561AFC59
+Any GET_VEHICLE_INDEX_FROM_ENTITY_INDEX(Any p0);
+```
+
+## Parameters
+* **p0**:

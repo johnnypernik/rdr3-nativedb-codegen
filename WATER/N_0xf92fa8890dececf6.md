@@ -1,0 +1,10 @@
+---
+ns: WATER
+---
+## _0xF92FA8890DECECF6
+
+```c
+// 0xF92FA8890DECECF6
+Any _0xF92FA8890DECECF6();
+```
+

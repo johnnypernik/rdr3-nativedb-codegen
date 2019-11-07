@@ -1,0 +1,10 @@
+---
+ns: OBJECT
+---
+## GET_SAFE_PICKUP_COORDS
+
+```c
+// 0x6E16BC2503FF1FF0
+Any GET_SAFE_PICKUP_COORDS();
+```
+

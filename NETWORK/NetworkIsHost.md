@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## NETWORK_IS_HOST
+
+```c
+// 0x8DB296B814EDDA07
+Any NETWORK_IS_HOST();
+```
+

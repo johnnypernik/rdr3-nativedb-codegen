@@ -1,0 +1,13 @@
+---
+ns: ITEMDATABASE
+---
+## _ITEM_DATABASE_LOCALIZATION_GET_NUM_VALUES
+
+```c
+// 0x49885D82A13EEAEA
+Any _ITEM_DATABASE_LOCALIZATION_GET_NUM_VALUES(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

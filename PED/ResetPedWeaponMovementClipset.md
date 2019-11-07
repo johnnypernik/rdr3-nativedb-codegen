@@ -1,0 +1,12 @@
+---
+ns: PED
+---
+## RESET_PED_WEAPON_MOVEMENT_CLIPSET
+
+```c
+// 0x97B0DB5B4AA74E77
+void RESET_PED_WEAPON_MOVEMENT_CLIPSET(Any p0);
+```
+
+## Parameters
+* **p0**:

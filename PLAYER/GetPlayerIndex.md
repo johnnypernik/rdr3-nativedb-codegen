@@ -1,0 +1,10 @@
+---
+ns: PLAYER
+---
+## GET_PLAYER_INDEX
+
+```c
+// 0x47E385B0D957C8D4
+Any GET_PLAYER_INDEX();
+```
+

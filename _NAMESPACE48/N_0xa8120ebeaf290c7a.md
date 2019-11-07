@@ -1,0 +1,12 @@
+---
+ns: _NAMESPACE48
+---
+## _0xA8120EBEAF290C7A
+
+```c
+// 0xA8120EBEAF290C7A
+Any _0xA8120EBEAF290C7A(Any p0);
+```
+
+## Parameters
+* **p0**:

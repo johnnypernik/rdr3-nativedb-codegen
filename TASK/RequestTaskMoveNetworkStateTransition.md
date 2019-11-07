@@ -1,0 +1,13 @@
+---
+ns: TASK
+---
+## REQUEST_TASK_MOVE_NETWORK_STATE_TRANSITION
+
+```c
+// 0xD01015C7316AE176
+void REQUEST_TASK_MOVE_NETWORK_STATE_TRANSITION(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

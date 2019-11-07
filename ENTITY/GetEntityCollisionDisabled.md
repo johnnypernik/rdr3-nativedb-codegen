@@ -1,0 +1,12 @@
+---
+ns: ENTITY
+---
+## GET_ENTITY_COLLISION_DISABLED
+
+```c
+// 0xAA2FADD30F45A9DA
+Any GET_ENTITY_COLLISION_DISABLED(Any p0);
+```
+
+## Parameters
+* **p0**:

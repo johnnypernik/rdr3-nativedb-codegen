@@ -1,0 +1,10 @@
+---
+ns: TASK
+---
+## _0xE41A09C8DDFF7AA4
+
+```c
+// 0xE41A09C8DDFF7AA4
+Any _0xE41A09C8DDFF7AA4();
+```
+

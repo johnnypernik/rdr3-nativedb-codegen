@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## NETWORK_IS_IN_SESSION
+
+```c
+// 0xCA97246103B63917
+Any NETWORK_IS_IN_SESSION();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: CAM
+---
+## IS_GAMEPLAY_HINT_ACTIVE
+
+```c
+// 0x2E04AB5FEE042D4A
+Any IS_GAMEPLAY_HINT_ACTIVE();
+```
+

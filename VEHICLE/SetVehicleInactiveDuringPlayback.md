@@ -1,0 +1,13 @@
+---
+ns: VEHICLE
+---
+## SET_VEHICLE_INACTIVE_DURING_PLAYBACK
+
+```c
+// 0x4EA71B4C9DB3C3F1
+void SET_VEHICLE_INACTIVE_DURING_PLAYBACK(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

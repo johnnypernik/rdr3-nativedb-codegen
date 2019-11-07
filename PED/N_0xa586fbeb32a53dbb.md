@@ -1,0 +1,10 @@
+---
+ns: PED
+---
+## _0xA586FBEB32A53DBB
+
+```c
+// 0xA586FBEB32A53DBB
+Any _0xA586FBEB32A53DBB();
+```
+

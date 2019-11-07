@@ -1,0 +1,10 @@
+---
+ns: PLAYER
+---
+## PLAYER_PED_ID
+
+```c
+// 0x096275889B8E0EE0
+Any PLAYER_PED_ID();
+```
+

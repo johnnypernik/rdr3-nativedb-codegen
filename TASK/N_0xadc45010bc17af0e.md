@@ -1,0 +1,10 @@
+---
+ns: TASK
+---
+## _0xADC45010BC17AF0E
+
+```c
+// 0xADC45010BC17AF0E
+Any _0xADC45010BC17AF0E();
+```
+

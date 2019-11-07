@@ -1,0 +1,10 @@
+---
+ns: PED
+---
+## GET_PED_NEARBY_VEHICLES
+
+```c
+// 0xCFF869CBFA210D82
+Any GET_PED_NEARBY_VEHICLES();
+```
+

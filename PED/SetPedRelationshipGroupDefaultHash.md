@@ -1,0 +1,13 @@
+---
+ns: PED
+---
+## SET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH
+
+```c
+// 0xADB3F206518799E8
+void SET_PED_RELATIONSHIP_GROUP_DEFAULT_HASH(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

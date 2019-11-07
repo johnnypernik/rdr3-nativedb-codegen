@@ -1,0 +1,10 @@
+---
+ns: ENTITY
+---
+## _0xB2C30C3B4AFF718C
+
+```c
+// 0xB2C30C3B4AFF718C
+Any _0xB2C30C3B4AFF718C();
+```
+

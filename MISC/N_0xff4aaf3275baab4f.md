@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## _0xFF4AAF3275BAAB4F
+
+```c
+// 0xFF4AAF3275BAAB4F
+Any _0xFF4AAF3275BAAB4F();
+```
+

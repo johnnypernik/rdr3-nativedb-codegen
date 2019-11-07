@@ -1,0 +1,12 @@
+---
+ns: NETWORK
+---
+## _GET_STATUS_OF_TEXTURE_DOWNLOAD
+
+```c
+// 0x8BD6C6DEA20E82C6
+Any _GET_STATUS_OF_TEXTURE_DOWNLOAD(Any p0);
+```
+
+## Parameters
+* **p0**:

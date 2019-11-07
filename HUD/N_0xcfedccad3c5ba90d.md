@@ -1,0 +1,10 @@
+---
+ns: HUD
+---
+## _0xCFEDCCAD3C5BA90D
+
+```c
+// 0xCFEDCCAD3C5BA90D
+Any _0xCFEDCCAD3C5BA90D();
+```
+

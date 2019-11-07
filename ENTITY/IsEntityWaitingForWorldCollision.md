@@ -1,0 +1,12 @@
+---
+ns: ENTITY
+---
+## IS_ENTITY_WAITING_FOR_WORLD_COLLISION
+
+```c
+// 0x5E1CC2E8DC3111DD
+Any IS_ENTITY_WAITING_FOR_WORLD_COLLISION(Any p0);
+```
+
+## Parameters
+* **p0**:

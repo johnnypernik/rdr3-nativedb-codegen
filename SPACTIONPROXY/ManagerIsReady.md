@@ -1,0 +1,10 @@
+---
+ns: SPACTIONPROXY
+---
+## _MANAGER_IS_READY
+
+```c
+// 0x1F471B79ACC91BED
+Any _MANAGER_IS_READY();
+```
+

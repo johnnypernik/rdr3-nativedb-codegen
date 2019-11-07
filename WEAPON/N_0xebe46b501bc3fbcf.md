@@ -1,0 +1,10 @@
+---
+ns: WEAPON
+---
+## _0xEBE46B501BC3FBCF
+
+```c
+// 0xEBE46B501BC3FBCF
+Any _0xEBE46B501BC3FBCF();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: UILOG
+---
+## _0xA31013798FADCADC
+
+```c
+// 0xA31013798FADCADC
+Any _0xA31013798FADCADC();
+```
+

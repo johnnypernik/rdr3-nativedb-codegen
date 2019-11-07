@@ -1,0 +1,12 @@
+---
+ns: VEHICLE
+---
+## SET_DISABLE_RANDOM_TRAINS_THIS_FRAME
+
+```c
+// 0xD4288603E8766FF7
+void SET_DISABLE_RANDOM_TRAINS_THIS_FRAME(Any p0);
+```
+
+## Parameters
+* **p0**:

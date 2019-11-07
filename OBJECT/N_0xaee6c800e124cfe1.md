@@ -1,0 +1,10 @@
+---
+ns: OBJECT
+---
+## _0xAEE6C800E124CFE1
+
+```c
+// 0xAEE6C800E124CFE1
+Any _0xAEE6C800E124CFE1();
+```
+

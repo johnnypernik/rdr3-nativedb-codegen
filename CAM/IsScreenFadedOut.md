@@ -1,0 +1,10 @@
+---
+ns: CAM
+---
+## IS_SCREEN_FADED_OUT
+
+```c
+// 0xF5472C80DF2FF847
+Any IS_SCREEN_FADED_OUT();
+```
+

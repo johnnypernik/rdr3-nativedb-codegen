@@ -1,0 +1,10 @@
+---
+ns: PLAYER
+---
+## _0x0FAF95D71ED67ADE
+
+```c
+// 0x0FAF95D71ED67ADE
+Any _0x0FAF95D71ED67ADE();
+```
+

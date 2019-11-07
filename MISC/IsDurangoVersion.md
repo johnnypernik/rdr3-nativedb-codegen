@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## IS_DURANGO_VERSION
+
+```c
+// 0xD1CCC2A2639D325F
+Any IS_DURANGO_VERSION();
+```
+

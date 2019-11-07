@@ -1,0 +1,10 @@
+---
+ns: PED
+---
+## IS_PED_EVASIVE_DIVING
+
+```c
+// 0x414641C26E105898
+Any IS_PED_EVASIVE_DIVING();
+```
+

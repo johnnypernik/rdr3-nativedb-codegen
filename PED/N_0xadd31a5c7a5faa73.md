@@ -1,0 +1,10 @@
+---
+ns: PED
+---
+## _0xADD31A5C7A5FAA73
+
+```c
+// 0xADD31A5C7A5FAA73
+Any _0xADD31A5C7A5FAA73();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: MAP
+---
+## IS_WAYPOINT_ACTIVE
+
+```c
+// 0x202B1BBFC6AB5EE4
+Any IS_WAYPOINT_ACTIVE();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: CAM
+---
+## GET_GAMEPLAY_CAM_COORD
+
+```c
+// 0x595320200B98596E
+Any GET_GAMEPLAY_CAM_COORD();
+```
+

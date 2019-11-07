@@ -1,0 +1,10 @@
+---
+ns: UIAPPS
+---
+## _0xAC959AB99AAF3D9F
+
+```c
+// 0xAC959AB99AAF3D9F
+Any _0xAC959AB99AAF3D9F();
+```
+

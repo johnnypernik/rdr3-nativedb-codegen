@@ -1,0 +1,10 @@
+---
+ns: _NAMESPACE7
+---
+## _0xFC81D7C7A151CFAA
+
+```c
+// 0xFC81D7C7A151CFAA
+Any _0xFC81D7C7A151CFAA();
+```
+

@@ -1,0 +1,10 @@
+---
+ns: GRAPHICS
+---
+## _0xAF4D239B8903FCBE
+
+```c
+// 0xAF4D239B8903FCBE
+Any _0xAF4D239B8903FCBE();
+```
+

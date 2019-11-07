@@ -1,0 +1,12 @@
+---
+ns: PATHFIND
+---
+## GET_VEHICLE_NODE_IS_SWITCHED_OFF
+
+```c
+// 0x28533DBDDF7C2C97
+Any GET_VEHICLE_NODE_IS_SWITCHED_OFF(Any p0);
+```
+
+## Parameters
+* **p0**:

@@ -1,0 +1,10 @@
+---
+ns: SCRIPTS
+---
+## _0xB9467E41DAB1CF2C
+
+```c
+// 0xB9467E41DAB1CF2C
+Any _0xB9467E41DAB1CF2C();
+```
+

@@ -1,0 +1,12 @@
+---
+ns: GRAPHICS
+---
+## TOGGLE_PAUSED_RENDERPHASES
+
+```c
+// 0xEF9E1C45732F55FA
+void TOGGLE_PAUSED_RENDERPHASES(Any p0);
+```
+
+## Parameters
+* **p0**:

@@ -1,0 +1,12 @@
+---
+ns: TASK
+---
+## GET_SCRIPTED_COVER_POINT_COORDS
+
+```c
+// 0x594A1028FC2A3E85
+Any GET_SCRIPTED_COVER_POINT_COORDS(Any p0);
+```
+
+## Parameters
+* **p0**:

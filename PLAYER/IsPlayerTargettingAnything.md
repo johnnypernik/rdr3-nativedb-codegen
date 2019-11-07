@@ -1,0 +1,12 @@
+---
+ns: PLAYER
+---
+## IS_PLAYER_TARGETTING_ANYTHING
+
+```c
+// 0x4605C66E0F935F83
+Any IS_PLAYER_TARGETTING_ANYTHING(Any p0);
+```
+
+## Parameters
+* **p0**:

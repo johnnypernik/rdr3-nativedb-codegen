@@ -1,0 +1,12 @@
+---
+ns: HUD
+---
+## _PROMPT_HAS_MASH_MODE_COMPLETED
+
+```c
+// 0x845CE958416DC473
+Any _PROMPT_HAS_MASH_MODE_COMPLETED(Any p0);
+```
+
+## Parameters
+* **p0**:

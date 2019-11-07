@@ -1,0 +1,10 @@
+---
+ns: WEAPON
+---
+## SET_PED_AMMO_TO_DROP
+
+```c
+// 0xA4EFEF9440A5B0EF
+Any SET_PED_AMMO_TO_DROP();
+```
+

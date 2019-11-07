@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## FORCE_LIGHTNING_FLASH
+
+```c
+// 0x369DB5B2510FA080
+void FORCE_LIGHTNING_FLASH();
+```
+

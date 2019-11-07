@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## _0x0AFCE529F69B21FF
+
+```c
+// 0x0AFCE529F69B21FF
+Any _0x0AFCE529F69B21FF();
+```
+

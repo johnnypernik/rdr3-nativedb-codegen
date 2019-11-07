@@ -1,0 +1,10 @@
+---
+ns: FIRE
+---
+## _0xB7C7BDC375AEA9A4
+
+```c
+// 0xB7C7BDC375AEA9A4
+Any _0xB7C7BDC375AEA9A4();
+```
+

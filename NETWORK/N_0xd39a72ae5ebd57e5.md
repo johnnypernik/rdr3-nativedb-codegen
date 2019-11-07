@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## _0xD39A72AE5EBD57E5
+
+```c
+// 0xD39A72AE5EBD57E5
+Any _0xD39A72AE5EBD57E5();
+```
+

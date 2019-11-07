@@ -1,0 +1,10 @@
+---
+ns: DATAFILE
+---
+## _0xBBD8CF823CAE557C
+
+```c
+// 0xBBD8CF823CAE557C
+Any _0xBBD8CF823CAE557C();
+```
+

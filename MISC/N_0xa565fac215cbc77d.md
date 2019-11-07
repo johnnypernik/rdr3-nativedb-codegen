@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## _0xA565FAC215CBC77D
+
+```c
+// 0xA565FAC215CBC77D
+Any _0xA565FAC215CBC77D();
+```
+

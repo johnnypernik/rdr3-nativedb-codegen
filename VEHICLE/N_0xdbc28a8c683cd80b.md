@@ -1,0 +1,10 @@
+---
+ns: VEHICLE
+---
+## _0xDBC28A8C683CD80B
+
+```c
+// 0xDBC28A8C683CD80B
+Any _0xDBC28A8C683CD80B();
+```
+

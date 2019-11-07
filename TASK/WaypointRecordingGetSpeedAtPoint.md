@@ -1,0 +1,13 @@
+---
+ns: TASK
+---
+## WAYPOINT_RECORDING_GET_SPEED_AT_POINT
+
+```c
+// 0x005622AEBC33ACA9
+Any WAYPOINT_RECORDING_GET_SPEED_AT_POINT(Any p0, Any p1);
+```
+
+## Parameters
+* **p0**:
+* **p1**:

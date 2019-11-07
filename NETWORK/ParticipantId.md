@@ -1,0 +1,10 @@
+---
+ns: NETWORK
+---
+## PARTICIPANT_ID
+
+```c
+// 0x90986E8876CE0A83
+Any PARTICIPANT_ID();
+```
+

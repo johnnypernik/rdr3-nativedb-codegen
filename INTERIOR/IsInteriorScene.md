@@ -1,0 +1,10 @@
+---
+ns: INTERIOR
+---
+## IS_INTERIOR_SCENE
+
+```c
+// 0x4200F14D6F840A9A
+Any IS_INTERIOR_SCENE();
+```
+

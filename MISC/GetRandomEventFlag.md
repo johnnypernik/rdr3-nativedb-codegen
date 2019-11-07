@@ -1,0 +1,10 @@
+---
+ns: MISC
+---
+## GET_RANDOM_EVENT_FLAG
+
+```c
+// 0x924D54E5698AE3E0
+Any GET_RANDOM_EVENT_FLAG();
+```
+
